@@ -38,3 +38,4 @@ C:\Users\tracs\OneDrive\Escritorio\Cursos\Progra 2\PrestamoBIblioteca\obj\Debug\
 C:\Users\tracs\OneDrive\Escritorio\Cursos\Progra 2\PrestamoBIblioteca\obj\Debug\net8.0\PrestamoBiblioteca.pdb
 C:\Users\tracs\OneDrive\Escritorio\Cursos\Progra 2\PrestamoBIblioteca\obj\Debug\net8.0\PrestamoBiblioteca.genruntimeconfig.cache
 C:\Users\tracs\OneDrive\Escritorio\Cursos\Progra 2\PrestamoBIblioteca\obj\Debug\net8.0\ref\PrestamoBiblioteca.dll
+C:\Users\tracs\OneDrive\Escritorio\Cursos\Progra 2\PrestamoBIblioteca\obj\Debug\net8.0\PrestamoBiblioteca.sourcelink.json
